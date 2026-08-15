@@ -93,7 +93,7 @@ This release focused on configuration and content work across multiple standalon
 ### Known Issues / Pending
 
 - **The Taco Farmers**
-  - ⚠️ MLO has **not yet been deployed** to the server. Flagged here despite the overall "done" status of this batch, since this specific interior is still outstanding — please confirm placement priority before next release.
+  - MLO has **been deployed** to the server.
 
 - **Small Store — Gang Reputation Gating**
   - ⚠️ **Blocked.** Robbery reward/trigger logic is functional, but the gang-reputation requirement layer is not yet implemented.
@@ -135,11 +135,10 @@ This release focused on configuration and content work across multiple standalon
 ### Requested Enhancements
 
 - **Norte Resto (MLO Needed)**
-  - Open call to dev team: if a restaurant MLO for the North side of the map is available, flag it for review so it can be scheduled for deployment.
+  - Looking for more restaurants in Paleto and Sandy Shores
 
 - **Stash Capacity — Personal / Boss / Public / Evidence Locker**
   - Request submitted to increase both **slot count** and **weight capacity** across all whitelisted stash types (Personal Stash, Boss Stash, Public Stash, Evidence Locker).
-  - Not yet implemented — flagged for the next config pass on `ox_inventory` stash definitions.
 
 ---
 
